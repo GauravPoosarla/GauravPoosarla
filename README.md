@@ -32,6 +32,13 @@ I am a Sophomore in Computer Science of VIT Vellore, and am from Nagpur, Maharas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravPoosarla&theme=radical&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
 
+<details>
+  <summary>:zap: Github Stats</summary>
+  
+  ![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=GauravPoosarla&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)
+  
+</details>
+
 ### 👀 visitor count
 
 <img src="https://profile-counter.glitch.me/GauravPoosarla/count.svg" alt="Hello world" />
