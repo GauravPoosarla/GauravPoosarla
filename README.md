@@ -11,7 +11,7 @@
 <br/>
 
 **About Me:**
-I am a Pre-final year student of Computer Science at VIT Vellore, and am from Nagpur, Maharastra. I love to study about new topics and as of now am learning Deep learning and Open CV.
+I am a Final year student of Computer Science at VIT Vellore, and am from Nagpur, Maharastra. I love to study about new topics and as of now am learning Deep learning and Open CV.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"/>
 
