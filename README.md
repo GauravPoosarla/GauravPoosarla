@@ -42,4 +42,4 @@ I am a Final year student of Computer Science at VIT Vellore, and am from Nagpur
 
 ### 👀 visitor count
 
-<img src="https://profile-counter.glitch.me/GauravPoosarla/count.svg" alt="Hello world" />
+<img src="https://profile-counter.glitch.me/GauravPoosarla/count.svg"/>
