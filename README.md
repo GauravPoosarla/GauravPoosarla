@@ -35,7 +35,7 @@ I am a Final year student of Computer Science at VIT Vellore, and am from Nagpur
 <details>
   <summary>:zap: Github Stats</summary>
   
-  ![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=GauravPoosarla&theme=radical)
+  [comment]: <![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=GauravPoosarla&theme=radical)>
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GauravPoosarla&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
 </details>
